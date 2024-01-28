@@ -25,7 +25,7 @@
                               <label for="date mt-2">التاريخ:</label>
                               <input type="date" id="date" name="date">
                               
-                        </form>
+                       
                     </h4>
                         
                         
@@ -40,7 +40,7 @@
             <div class="row d-flex justify-content-center">
                 <div class="col d-flex justify-content-center">
                     <button class="btn btn-primary  mt-2" type="submit">اضافة للسلة</button>
-
+                  </form>
                 </div>
 
             </div>
